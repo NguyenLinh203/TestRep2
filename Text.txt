@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello World 5.0
+=======
+Hello World 6.0
+>>>>>>> sub1
